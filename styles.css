@@ -64,7 +64,7 @@
     border-radius: 20px;
 
 }
-@media screen and  (max-width: 500px) {
+/* @media screen and  (max-width: 500px) {
     .img-1{
         display: none;
     }
@@ -74,4 +74,4 @@
     .img-2{
         display: none;
     }
-}
+} */
